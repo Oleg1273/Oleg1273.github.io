@@ -1,0 +1,74 @@
+.body {
+    background: scroll;
+    background-color:#e8e8e8;
+    font-family: Arial, sans-serif;
+}
+.main {
+    position: absolute;
+    top: 80px;
+    left: 15%;
+    height: 400%;
+    width: 70%;
+    border-width: 0.5px;
+    border-color: black;
+    border: solid;
+    background-color: white;
+}
+.leftbar {
+    position: absolute;
+    height: 100%;
+    width: 15%;
+}
+.search {
+    position: absolute;
+    top: 8%;
+    right: 3%;
+}
+.img {
+    height: 100%;
+    width: 15%;
+}
+.header-text {
+    position: absolute;
+    left: 38%;
+    top: 10%;
+    font-size: 50px;
+}
+.header {
+    position: absolute;
+    height: 3.3%;
+    width: 100%;
+    left: 0;
+    border-color: black;
+    border: solid;
+    border-width: 0.3px;
+    border-bottom: 0.15px;
+}
+.main-content {
+    position: absolute;
+    width: 85%;
+    height: 96.7%;
+    top: 3.3%;
+    left: 15%;
+    border-color: black;
+    border: solid;
+    border-width: 0.3px;
+    border-bottom: 0.15px;
+}
+.content-block {
+    height: 5.1%;
+    border-bottom-color: black;
+    border-width: 0.3px;
+    border: solid;
+    border-bottom: 0.15px;
+    position: relative;
+}
+.content-block-img {
+    height: 100%;
+    width: 25%;
+    text-align: right;
+}
+.content-block-text {
+    position: absolute;
+    font-size: 12px;
+}
